@@ -15,11 +15,11 @@ These calculations aim to quantify part of the physics associated with the fligh
 Just run in a terminal:
 
 ```bash
-python3 tic_tac_math/py
+python3 tic_tac_math.py
 ```
 You should see this: 
 
-<img width="565" alt="Screenshot 2025-06-02 at 11 00 34 AM" src="https://github.com/user-attachments/assets/46db16c5-2904-4a88-88bd-866bdf550563" />
+<img width="565" alt="Screenshot 2025-06-02 at 11 00 34 AM" src="https://github.com/user-attachments/assets/46db16c5-2904-4a88-88bd-866bdf550563" /><br>
 
 You can also enter custom variables. 
 
